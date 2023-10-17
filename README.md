@@ -26,25 +26,21 @@
 </div>
 
 ###
-
+</br>
 <h1 align="left">📊 GitHub Stats:</h1>
 
-###
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
 
-<h3 align="left">Stars</h3>
+<div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthvarma18&layout=compact&theme=chartreuse-dark" alt=yashwanthvarma18 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwanthvarma18&show_icons=true&locale=en&theme=chartreuse-dark" alt="yashwanthvarma18" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthvarma18&theme=chartreuse-dark" alt="yashwanthvarma18" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-
 ###
 
+
+</br>
 <h1 align="left">💻 Tech Stack:</h1>
 
 ###
@@ -70,13 +66,27 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/QNSkyS6d368AAAAd/itachi-uchiha-naruto.gif"  />
+  <img height="250"  src="https://media.tenor.com/QNSkyS6d368AAAAd/itachi-uchiha-naruto.gif"  />
 </div>
+</br>
 
-###
+<h1 align="left">📈Statistics</h1>
 
-<br clear="both">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="left">
+<a href="https://github.com/yashwanthvarma18">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashwanthvarma18&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashwanthvarma18&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwanthvarma18&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashwanthvarma18&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashwanthvarma18&theme=chartreuse_dark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</br>
+<h2 align="left">⚡Activity Graph:</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthvarma18&theme=merko"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://raw.githubusercontent.com/yashwanthvarma18/yashwanthvarma18/output/snake.svg" alt="Snake animation" />
 
 ###
