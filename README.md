@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Enthusiastic Chemical Engineering B.Tech student at IIT Madras<br>🚀 Mastering Software Engineering, Competitive Programming, AI<br>💼 Proficient in C++, C, Java, HTML, CSS, JavaScript<br>💡 Tech enthusiast driving innovation and value<br>🏆 Codeforces & CodeChef problem-solving track record<br>🌐 Achieved 2nd place in WEBOPS 24hr Hackathon conducted by IIT MADRAS<br>🌟 Completed Hacktoberfest 2023<br>🌱 Passionate about open source contributions</p>
+<p align="left">👨‍💻 Enthusiastic Chemical Engineering B.Tech student at IIT Madras<br>🚀 Mastering Software Engineering, Competitive Programming, AI<br>💼 Proficient in C++, C, Python, HTML, CSS, JavaScript<br>🏆 Codeforces & CodeChef problem-solving track record<br>🌟 Completed Hacktoberfest 2023<br>🌱 Passionate about open source contributions</p>
 
 ###
 
@@ -13,12 +13,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/yashwanth-varma-417920257/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/yashwanth_varma18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/yashwanth_1810" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
   </a>
   <a href="gsaiyashwanth18@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
