@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Enthusiastic Chemical Engineering B.Tech student at IIT Madras<br>🚀 Mastering Software Engineering, Competitive Programming, AI<br>💼 Proficient in C++, C, Python, HTML, CSS, JavaScript<br>🏆 Codeforces & CodeChef problem-solving track record<br>🌟 Completed Hacktoberfest 2023<br>🌱 Passionate about open source contributions</p>
+<p align="left">👨‍💻 Enthusiastic Chemical Engineering B.Tech student at IIT Madras<br>🚀 Mastering Software Engineering, Competitive Programming, AI<br>💼 Proficient in C++, C, Python, HTML, CSS, JavaScript<br>🏆 Codeforces, CodeChef & LeetCode problem-solving track record<br>🌟 Completed Hacktoberfest 2023<br>🌱 Passionate about open source contributions</p>
 
 ###
 
