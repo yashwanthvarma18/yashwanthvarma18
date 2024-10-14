@@ -27,7 +27,7 @@
 <div align="center">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthvarma18&layout=compact&theme=chartreuse-dark" alt=yashwanthvarma18 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwanthvarma18&show_icons=true&locale=en&theme=chartreuse-dark" alt="yashwanthvarma18" /></p>
+
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthvarma18&theme=chartreuse-dark" alt="yashwanthvarma18" /></p>
 
