@@ -21,15 +21,15 @@
 
 ###
 </br>
-<h1 align="left">📊 GitHub Stats:</h1>
-
-
+<h1 >📊 GitHub Stats:</h1>
+</br>
 <div align="center">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthvarma18&layout=compact&theme=chartreuse-dark" alt=yashwanthvarma18 />
-
-
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthvarma18&theme=chartreuse-dark" alt="yashwanthvarma18" /></p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthvarma18&layout=compact&theme=chartreuse-dark" alt="yashwanthvarma18" />
+</div>
+</br>
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthvarma18&theme=chartreuse-dark" alt="yashwanthvarma18" />
+</div>
 
 ###
 
